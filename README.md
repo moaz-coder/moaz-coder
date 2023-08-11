@@ -5,7 +5,21 @@
 I am moaz Walid studied at the Faculty of Computing and Artificial Intelligence 
 I'm a mobile app developer(Flutter), good at problem solving
 
-Skills: Dart   Object-Oriented Programming (OOP)Object-Oriented Programming (OOP)  Bloc  Cubit  Dio  Firebase  REST API  SQLite  Git  GitHub  C++  Python   Microsoft Excel  Microsoft Word  Microsoft PowerPoint
+Skills:
+* Dart
+* Object-Oriented Programming (OOP)
+* Bloc
+* Cubit
+* Dio
+* Firebase
+*REST API
+* SQLite
+* Git
+* C++
+* Python
+* Microsoft Excel
+* Microsoft Word
+* Microsoft PowerPoint
 
 - 🔭 I’m currently working on this page. 
 
