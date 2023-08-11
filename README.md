@@ -7,14 +7,14 @@
 I am moaz Walid studied at the Faculty of Computing and Artificial Intelligence ---I'm a mobile app developer(Flutter)
 
 Skills:
-*Dart
-*Oriented Programming (OOP)
-*Bloc
-*Cubit
-*Dio
-*Firebase
-*REST API
-*SQLite-
+* Dart
+* Oriented Programming (OOP)
+* Bloc
+* Cubit
+* Dio
+* Firebase
+* REST API
+* SQLite-
 *Git
 *GitHub
 *C++
